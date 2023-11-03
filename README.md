@@ -1,2 +1,2 @@
 # Pything
-I'll just post random code that I learn to count as my evidence :o
+Learning code week by week for Duke of Edinburgh skill.
